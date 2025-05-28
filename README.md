@@ -71,3 +71,14 @@ By completing this notebook, you will:
 
 - `README.md` – This documentation file
 - `JHU_Bioinformatics_Module3_Homework_Practical-genomic_assembly_with_overlap_graphs.pdf` – Reference instructions (from course material)
+
+- ## 📜 License & Attribution
+
+This repository is intended for **personal and educational use only**.
+
+- All algorithmic ideas and educational structure originate from the course **Algorithms for DNA Sequencing** offered by **Johns Hopkins University** on Coursera, part of the **Genomic Data Science Specialization**.
+- This notebook is a documented part of **Julian Borges'** personal learning journey.
+- **All rights to the original course content are reserved by their respective authors and institutions.**
+
+This repository does **not** claim ownership over the original educational content, but simply serves as annotated documentation for private study.
+"""
